@@ -78,7 +78,7 @@ Listed here is everything I did concerning cleaning the data
 
 ***Sixths Visualization***
 
-- The next Visualization I used was the gage. I used two gages to display the Happiness of Work Life Balance and Happiness with Salary.
+- The next Visualization I used was the gage. I used two gages to display the Happiness of Work-Life Balance and Happiness with Salary.
 
 
 ***Gage one***
@@ -101,4 +101,4 @@ Listed here is everything I did concerning cleaning the data
 
 ### Cleaned Everything Up
 
-- Lastly, I did was cleaned everything up on the dashboard so that it was easy to visualize and made everything look appealing as if I were to present the data to other people.
+- Lastly, I cleaned everything up on the dashboard so that it was easy to visualize and made everything look appealing as if I were to present the data to other people.
