@@ -80,25 +80,24 @@ Listed here is everything I did concerning cleaning the data
 
 - The next Visualization I used was the gage. I used two gages to display the Happiness of Work Life Balance and Happiness with Salary.
 
-    ![Screenshot](https://github.com/JamesTKapo/Data-Professional-Survey-Visualization/blob/main/Pictures/HappinessWithWorkLifeBalance.png?raw=true)
 
 ***Gage one***
 
 - I wanted to Gage how happy people were with their work-life balance, I created min and max values so that we can see the range is between 0 to 10 which is how it showed up on the Survey.
 
-        ![Screenshot](https://github.com/JamesTKapo/Data-Professional-Survey-Visualization/blob/main/Pictures/HappinessWithWorkLifeBalance.png?raw=true)
+    ![Screenshot](https://github.com/JamesTKapo/Data-Professional-Survey-Visualization/blob/main/Pictures/HappinessWithWorkLifeBalance.png?raw=true)
 
 ***Gage two***
 
 - I wanted to see how happy people were with their current salary, very important as salary can be one of the contributing factors in how long a person may stay at their job.
 
-        ![Screenshot](https://github.com/JamesTKapo/Data-Professional-Survey-Visualization/blob/main/Pictures/HappinessWithSalary.png?raw=true) 
+    ![Screenshot](https://github.com/JamesTKapo/Data-Professional-Survey-Visualization/blob/main/Pictures/HappinessWithSalary.png?raw=true) 
 
 ***Seventh Visualization***
 
 - The Last Visualization I created was a difficulty chart. I wanted to see how people felt about how difficult it was to break into the field based on several different factors of how they felt such as easy to hard to very difficult.
 
-        ![Screenshot](https://github.com/JamesTKapo/Data-Professional-Survey-Visualization/blob/main/Pictures/DifficultytoBreakIntoData.png?raw=true) 
+    ![Screenshot](https://github.com/JamesTKapo/Data-Professional-Survey-Visualization/blob/main/Pictures/DifficultytoBreakIntoData.png?raw=true) 
 
 ### Cleaned Everything Up
 
