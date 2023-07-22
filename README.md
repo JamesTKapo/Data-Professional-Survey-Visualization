@@ -50,38 +50,55 @@ Listed here is everything I did concerning cleaning the data
 
 - Simple Card Visualization displayed the number of participants who took part in the survey, is easy to read, and visualizes the scale at which this survey was taken.
 
+![Screenshot](https://github.com/JamesTKapo/Data-Professional-Survey-Visualization/blob/main/Pictures/NumberOfParticipants.png?raw=true)
+
 ***Second Visualization***
 
 - Simple Card Visualization displayed the average age of participants. Always good to show age or gender demographic and it creates a solid foundation with presenting the other data such as occupation and salary.
+
+![Screenshot](https://github.com/JamesTKapo/Data-Professional-Survey-Visualization/blob/main/Pictures/AverageAgeofParticipants.png?raw=true)
 
 ***Third Visualization***
 
 - Created a stacked bar chart to show the Average Salary correlated with the Job title. Job title directly impacts the salary you make, making this one of the most important visualizations to have on the dashboard.
 
+![Screenshot](https://github.com/JamesTKapo/Data-Professional-Survey-Visualization/blob/main/Pictures/AverageSalaryByJobTitle.png?raw=true)
+
 ***Forth Visualization***
 
 - Wanted to get an idea of what programming language participants used the most in their occupations. As this was a technology-based survey it was important to see what programming language was used most for each position listed in the survey.
 
+    ![Screenshot](https://github.com/JamesTKapo/Data-Professional-Survey-Visualization/blob/main/Pictures/FavoriteProgrammingLanguage.png?raw=true)
+
 ***Fifth Visualization***
 
 - The next Visualization I wanted to see was what country these people came from. Although I didn't dive too much into the reasoning for this, county of origin or the country you currently work in has a huge impact on the salary you make and I figured it was important to visualize that. Clicking on the different countries you can see that the values around the dashboard change.
-![Screenshot](https://github.com/JamesTKapo/Data-Professional-Survey-Visualization/blob/main/Pictures/ClickingOnTreeMap.png?raw=true)
+
+    ![Screenshot](https://github.com/JamesTKapo/Data-Professional-Survey-Visualization/blob/main/Pictures/ClickingOnTreeMap.png?raw=true)
 
 ***Sixths Visualization***
 
-- The next Visualization I used was the gage. I used two gages to display the Happiness of Work-Life Balance and Happiness with Salary.
+- The next Visualization I used was the gage. I used two gages to display the Happiness of Work Life Balance and Happiness with Salary.
+
+    ![Screenshot](https://github.com/JamesTKapo/Data-Professional-Survey-Visualization/blob/main/Pictures/HappinessWithWorkLifeBalance.png?raw=true)
 
 ***Gage one***
 
 - I wanted to Gage how happy people were with their work-life balance, I created min and max values so that we can see the range is between 0 to 10 which is how it showed up on the Survey.
 
+        ![Screenshot](https://github.com/JamesTKapo/Data-Professional-Survey-Visualization/blob/main/Pictures/HappinessWithWorkLifeBalance.png?raw=true)
+
 ***Gage two***
 
 - I wanted to see how happy people were with their current salary, very important as salary can be one of the contributing factors in how long a person may stay at their job.
 
+        ![Screenshot](https://github.com/JamesTKapo/Data-Professional-Survey-Visualization/blob/main/Pictures/HappinessWithSalary.png?raw=true) 
+
 ***Seventh Visualization***
 
 - The Last Visualization I created was a difficulty chart. I wanted to see how people felt about how difficult it was to break into the field based on several different factors of how they felt such as easy to hard to very difficult.
+
+        ![Screenshot](https://github.com/JamesTKapo/Data-Professional-Survey-Visualization/blob/main/Pictures/DifficultytoBreakIntoData.png?raw=true) 
 
 ### Cleaned Everything Up
 
