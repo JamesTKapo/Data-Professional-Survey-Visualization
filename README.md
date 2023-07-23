@@ -1,6 +1,6 @@
 # Data-Professional-Survey-Visualization
 
-Data Professional Survey Visualization is my first project in Data Analytics. In this project, I did a variety of tasks that you would do on a day-to-day basis such as Data Cleaning, Building Visualizations, and creating a clean dashboard to present the data to extract important information.
+Data Professional Survey Visualization is my first project in Data Analytics. In this project, I did a variety of tasks that you would do on a day-to-day basis such as Data Cleaning, Building Visualizations, and creating a clean dashboard to present that data extracts important information.
 
 # Data Cleaning
 Listed here is everything I did concerning cleaning the data
